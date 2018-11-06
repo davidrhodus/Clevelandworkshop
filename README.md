@@ -1,6 +1,6 @@
 # Ethereum DApp Development Workshop
 
-This repository contains material to teach you Smart Contract development workflow using [Ganache CLI](https://github.com/trufflesuite/ganache-cli), [Web3 v1](https://github.com/ethereum/web3.js/)
+This repository contains material to teach you Ethereum Smart Contract development workflow using [Ganache CLI](https://github.com/trufflesuite/ganache-cli), [Web3 v1](https://github.com/ethereum/web3.js/)
 
 
 ## Prerequisites
