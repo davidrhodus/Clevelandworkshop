@@ -14,6 +14,11 @@ This repository contains material to teach you Ethereum Smart Contract developme
 
 [What are Ethereum Test Networks](https://medium.com/compound-finance/the-beginners-guide-to-using-an-ethereum-test-network-95bbbc85fc1d)
 
+# Learning resources
+[Solodity Documentation](https://solidity.readthedocs.io/en/v0.5.0/index.html)
+[Crypto Zombies](https://cryptozombies.io)
+[Ethernaut](https://ethernaut.zeppelin.solutions/)
+
 
 
 ## Prerequisites
