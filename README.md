@@ -10,7 +10,7 @@ This repository contains material to teach you Ethereum Smart Contract developme
 
 [What is IPFS](https://www.youtube.com/watch?v=5Uj6uR3fp-U)
 
-[Introduction to Web3] (https://t.co/zqPUBvmRE4)
+[Introduction to Web3](https://t.co/zqPUBvmRE4)
 
 [What are Ethereum Test Networks](https://medium.com/compound-finance/the-beginners-guide-to-using-an-ethereum-test-network-95bbbc85fc1d)
 
