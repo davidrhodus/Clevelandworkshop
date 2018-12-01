@@ -14,7 +14,10 @@ To use the provided Ganache snapshot, install `ganache-cli`.
 sudo npm install -g ganache-cli
 ```
 
-2. Truffle
+2. Metamask
+Install Metamask by downloading here https://metamask.io/
+
+3. Truffle
 
 Install the latest Truffle.
 
@@ -22,8 +25,8 @@ Install the latest Truffle.
 sudo npm install -g truffle
 ```
 
-3. Install the rest of the NPM packages
+4. Install the rest of the NPM packages
 
 ```
-npm install
+cd voting; npm install
 ```
