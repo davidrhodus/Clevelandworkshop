@@ -16,8 +16,12 @@ This repository contains material to teach you Ethereum Smart Contract developme
 
 # Learning resources
 [Solodity Documentation](https://solidity.readthedocs.io/en/v0.5.0/index.html)
+
 [Crypto Zombies](https://cryptozombies.io)
+
 [Ethernaut](https://ethernaut.zeppelin.solutions/)
+
+[Ethereum Developer Tool List](https://github.com/ConsenSys/ethereum-developer-tools-list)
 
 
 
